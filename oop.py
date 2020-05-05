@@ -1,5 +1,4 @@
 class Base:
-
     def fun(self):
         print("Public Method")
 
